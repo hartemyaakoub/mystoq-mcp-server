@@ -1,0 +1,10 @@
+{
+  "name": "@mystoq/mcp-server",
+  "version": "0.1.0",
+  "description": "MCP server exposing Mystoq API to AI agents",
+  "main": "src/server.js",
+  "type": "module",
+  "bin": { "mystoq-mcp": "src/server.js" },
+  "license": "MIT",
+  "homepage": "https://mystoq.com"
+}
